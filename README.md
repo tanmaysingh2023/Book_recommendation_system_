@@ -32,6 +32,7 @@ To set up the project locally, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
+4. **📦  Make sure to extract the .pkl files from the data folder**.
 
 ## 🖥️ Usage
 
